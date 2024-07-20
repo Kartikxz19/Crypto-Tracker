@@ -18,6 +18,11 @@ CRYPTO-TRACKER/
 │   │   └── page.tsx
 │   └── Explore/
 │       └── page.tsx
+|   ├── favicon.ico
+|   ├── globals.css
+|   ├── layout.tsx
+|   ├── page.tsx
+|   └── providers.tsx
 ├── components/
 │   ├── ui/
 │   ├── Card.tsx
@@ -46,11 +51,6 @@ CRYPTO-TRACKER/
 │   └── watchlistSlice.ts
 ├── types/
 │   └── types.ts
-├── favicon.ico
-├── globals.css
-├── layout.tsx
-├── page.tsx
-└── providers.tsx
 ```
 ## Description
 
