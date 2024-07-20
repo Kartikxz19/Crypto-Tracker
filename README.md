@@ -3,6 +3,7 @@
 A Next.js application for tracking cryptocurrencies.
 
 ## Project Structure
+```
 CRYPTO-TRACKER/
 ├── actions/
 │   ├── AllCrypto.ts
@@ -50,7 +51,7 @@ CRYPTO-TRACKER/
 ├── layout.tsx
 ├── page.tsx
 └── providers.tsx
-Copy
+```
 ## Description
 
 This project is a cryptocurrency tracking application built with Next.js. It includes features such as:
