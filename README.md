@@ -1,5 +1,5 @@
 # CRYPTO-TRACKER
-
+# NOTE: *You might see some errors when visiting specific Cryptocurrency Detail page. This due to the use of free api which doesn't provide access to all the coins' details.
 A Next.js application for tracking cryptocurrencies.
 
 ## Project Structure
